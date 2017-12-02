@@ -83,8 +83,7 @@ bilgi:{
               <div className="interests-container container-block">
                   <h2 className="container-block-title">İlgiler</h2>
                   <ul className="list-unstyled interests-list">
-                      <li>Bilardo</li>
-                      <li>Masa Tenisi</li>
+                      <li> Futbol </li>
                   </ul>
               </div>
 
